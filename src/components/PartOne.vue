@@ -131,11 +131,12 @@ export default {
   }
 }
 </script>
-<style scoped>
+<style scoped>  
   .main{
-    background-color: #1E1E1E;
+    /*background-color: #ff0000;*/
     width: 100%;
     height: 100%;
+    z-index: 100;
   }
   
   .big{

@@ -249,7 +249,7 @@ export default {
 </script>
 <style scoped>
   .main {
-    background-color: #1E1E1E;
+    /*background-color: #1100ff;*/
     width: 100%;
     height: 100%;
   }

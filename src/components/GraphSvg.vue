@@ -1,6 +1,6 @@
 <template lang="">
   <div>
-    <svg width="959" height="558" viewBox="0 0 959 558" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg width="50vw" height="28vw" viewBox="0 0 959 558" fill="none" xmlns="http://www.w3.org/2000/svg">
       <rect x="5" width="954" height="558" rx="30" fill="#303541" fill-opacity="0.67"/>
       <rect width="42" height="42" rx="5" transform="matrix(1 0 0 -1 45 70)" fill="black"/>
       <path d="M52.215 42.125V39.317H57.831V59H54.726V42.125H52.215ZM77.4495 40.235V59H74.3715V50.792H65.5425V59H62.4645V40.235H65.5425V48.281H74.3715V40.235H77.4495Z" fill="white"/>
